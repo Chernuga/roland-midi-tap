@@ -1,0 +1,9 @@
+﻿{
+  "ssid": "YOUR_WIFI_NAME",
+  "password": "YOUR_WIFI_PASSWORD",
+  "host": "192.168.1.100",
+  "port": 5005,
+  "comPort": "COM7",
+  "outDir": "",
+  "arduinoCli": ""
+}

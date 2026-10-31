@@ -1,0 +1,18 @@
+# local secrets / generated artefacts
+config.json
+firmware/RolandTap/secrets.h
+.state/
+output/
+tracks.csv
+
+# bundled binary (download separately)
+tools/arduino-cli.exe
+
+# python
+__pycache__/
+*.pyc
+
+# captured data
+*.log
+*.bin
+*.mid
